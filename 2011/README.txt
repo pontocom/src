@@ -1,0 +1,1 @@
+This folder contains the 2011 version of the PHP crypto samples.
