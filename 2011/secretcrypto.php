@@ -14,5 +14,6 @@
 	$decipher = mcrypt_cbc(MCRYPT_RIJNDAEL_128, $key, $cipher, MCRYPT_DECRYPT, $iv);
 	
 	echo "Resultado em claro = ".$decipher."\n";
-	
+        
+        
 ?>
